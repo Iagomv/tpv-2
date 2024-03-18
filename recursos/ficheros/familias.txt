@@ -1,0 +1,10 @@
+Refrescos, Coca Cola, 2.20, Fanta Naranja, 2.10, Nestea, 2.30, Trina, 1.80, Coca Cola Zero, 2.20, Fanta Naranja Free, 2.10, Burn, 2.30, 7 up, 1.80, Pitusa, 2.34, Bitter Kas, 7.80
+Cafés, Cortado, 1.20, Solo, 1.10, Expresso, 1.80, Capuccino, 1.90, Caramelo, 1.12, Vienés, 1.90, Carajillo, 1.67, Manchado, 2.34, Con Soja, 3.23, Sin gluten, 4.5
+Bollería, Croissant, 1.50, Bollo de leche, 1.40, Hojaldres, 1.70, Magdalenas, 1.20
+Cervezas, 1906, 2.50, Red Vintage, 3.00, Heineken, 2.80, Coronitas, 1.90
+Tapas, Callos, 3.50, Tortilla, 2.80, Ensaladilla, 2.20
+Snacks, Patatas Fritas, 1.50, Cachuetes, 1.80, Almendras, 2.00, Aceitunas, 1.70
+Aguas, Sousas, 1.00, Fontvella, 1.20
+Alcohol, Ron, 3.50, Whisky, 4.00, Coñac, 3.80, Aguardiente, 2.50
+Infusiones, Té rojo, 1.30, Té verde, 1.40, Manzanillas, 1.20
+Vinos, Ribera del Duero, 8.00, Blanco, 6.50, Tinto, 7.00, Tetabrik, 5.50

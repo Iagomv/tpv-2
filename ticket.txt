@@ -1,0 +1,10 @@
+Cantidad	Descripción		Total
+1       	Fontvella           	1,20      
+1       	Sousas              	1,00      
+1       	Callos              	3,50      
+1       	Tortilla            	2,80      
+1       	Ensaladilla         	2,20      
+
+			Total: 10,70
+			IVA (10%): 1,07
+			Total con IVA: 11,77
